@@ -1,0 +1,10 @@
+Package: adedata
+Type: Package
+Title: Datasets for ade4
+Version: 0.9
+Date: 2017-03-21
+Author: Stéphane Dray, Jean Thioulouse, Anne-Béatrice Dufour and Aurélie Siberchicot
+Maintainer: aurelie.siberchicot@univ-lyon1.fr
+Description: A lot of datasets shared to be analysed with the ade4 package.
+License: GPL-3
+Encoding: UTF-8
