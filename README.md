@@ -1,2 +1,2 @@
 # adedata
-Ecological data for ade4
+Datasets for ade4
